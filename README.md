@@ -2,6 +2,7 @@ Test Application for Inventory Management
 
 To get started you can create an env file with the below details:
 
+```
 APP_NAME=MyInventory
 APP_ENV=local
 APP_KEY=base64:XmQAMTZydDVKimEiP6a36dUjLcD4VAHFfqSAb4ADlIo=
@@ -47,7 +48,7 @@ PUSHER_APP_CLUSTER=mt1
 
 MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
-
+```
 
 
 And you can run "composer install" for the dependency package installation
