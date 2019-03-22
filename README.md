@@ -57,5 +57,5 @@ And you can run "npm install" to install javascript packges
 
 Next you can run "npm run dev" to compile the Javascript 
 
-Demo links will be added soon
+Demo links will be added soon and update here
 
